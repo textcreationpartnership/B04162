@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>London's nevv wonder: Or, The great sleeper: being a strange, but true relation, of the first, second, and third trance of a young-man ... with the manner how he was brought from Henley upon Thames, to the City of London, by the art of spirit, the manner how he hath lain nine or ten days asleep ... the signs and wonders which he presented to the people ... when he awak'd ... Whereunto is annexed, The worlds wonder; being a true relation of the strange and dreadful apparitions seen in the air, on Tuesday last ... at New-Market-Heath ...</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04162</idno><idno type="EEBO-CITATION">53299187</idno>
+  <idno type="VID">179931</idno>
+  <idno type="EEBO-PROQUEST">2240895017</idno>
+  
+            <idno type="STC">Wing L2945</idno>
+            <idno type="STC">ESTC R180125</idno>
+            <idno type="OCLC">53299187</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B04162)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179931)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2808:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>London's nevv wonder: Or, The great sleeper: being a strange, but true relation, of the first, second, and third trance of a young-man ... with the manner how he was brought from Henley upon Thames, to the City of London, by the art of spirit, the manner how he hath lain nine or ten days asleep ... the signs and wonders which he presented to the people ... when he awak'd ... Whereunto is annexed, The worlds wonder; being a true relation of the strange and dreadful apparitions seen in the air, on Tuesday last ... at New-Market-Heath ...</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Horton,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with slight loss of text.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Curiosities and wonders --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Apparitions --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179931:1"/>
+            <pb facs="tcp:179931:1"/>
+            <p>London's Nevv Wonder: <hi>Or, The Great SLEEPER:</hi> Being a Strange, but True RELATION OF The First, Second, and Third <hi>Trance</hi> of A Young-man at Mr. <hi>Kates</hi>'s House, a Sugar-Baker in Water-Lane, near Tower-street: With the manner how he was brought from <hi>Henley</hi> upon <hi>Thames,</hi> to the City of <hi>London,</hi> by the Art of Spirits, the manner how he hath lain during nine or ten days sleep; the several Speeches made unto him, Desiring him, <hi>In the Name of God,</hi> to speak; the Signs and Wonders which he presented to the People, by his own hands, when he awak'd; and the most rare and memorable Speech, being an Example to this, and future Generations, pro<g ref="char:EOLhyphen"/>ceeding from a poor Creature, after a long and wonderful Trance. As also, the appearance of a young Child with two Tongues, three Heads, and upon each head a Crown; and other Remarkable Passages, touching the sinking and rising of a great Tree in Essex every sixth hour; and what hath lately happened near the Bottle of Hay, betwixt London &amp; Isling<g ref="char:EOLhyphen"/>ton, by a Gentlewoman disguised in Mans Apparel, in relation to the Gentry, and Good People of this Nation.</p>
+            <p>Whereunto is annexed, The Worlds WONDER; Being a true <hi>Relation</hi> of the strange and dreadful Apparitions seen in the Air, on Tuesday last was seven-night, at New-Market-Heath, and in the Western Parts: Wherein you might discern the Flaming-Sword, the Fiery Dragon, Sparkling-Coals, Burning-Beams, Beating of Drums, Sounding of Trumpets, and a Desperate Conflict between two Armies.</p>
+            <p>Likewise, the presenting of the Earth with a mighty Thunder-Bolt, much like unto the Shell of a Great Granado; and the taking of it up, and carrying it to Justice <hi>Fosters,</hi> where many hundreds of People resort to see it, to the great admiration of all that behold it.</p>
+            <p>As also, the strange and wonderful Ringing of the Bells, by four White Spirits in the perfect Shape of Men, at <hi>Ferry-Briggs</hi> in <hi>York-shire,</hi> on the first of this instant <hi>March,</hi> betwixt 12 and one of the Clock in the Morning. With the Minister, Clerk, and others going to them, demanding, <hi>In the Name of the Father, of the Son, and of the Holy Ghost,</hi> What they meant, and what their Business was? With the Answer which proceeded from a Voice, and the manner how they vanished.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>George Horton,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:179931:2"/>
+            <p>
+               <seg rend="decorInit">A</seg>Mongst the rest of the great Wonders in this our Age, pre<g ref="char:EOLhyphen"/>cedent times may parallel these, which now causeth as much astonishment, as admiration; and as great Wonder, as incredulity by some; yet let such of the Sons of men know, that as the Divine Hand of the Most High Livi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g God, hath been all-sufficiently presented from his Eternal Tabernacle, to his Earthly Foot-stool; so hath his abun<g ref="char:EOLhyphen"/>dant mercies, accompanied the <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fl<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ences of his Judgments, depending upon the Creature; For if we lo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k back, and take a view of the bloody Transacti<g ref="char:EOLhyphen"/>ons of Queen <hi>Mary,</hi> dy'd so high in their distinctive Scarlet Rayes; yet in the dayes of Queen <hi>Eliz<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>beth</hi> this bloody Tragedy was changed into a glori<g ref="char:EOLhyphen"/>ous and splended Comedy; when Religion flourished, true Soveraignty Reign<g ref="char:EOLhyphen"/>ed, and due obedience from the people prostrated; In whose glorious and happy dayes, great was the Wonders which then appeared; and amongst the rest, this is as observable, as memorahle, that during her Majesties Reign, a Gentleman in the Tower of <hi>London,</hi> being visited by some alliance and ac<g ref="char:EOLhyphen"/>quaintance, desired their company, and to present them with a Collation, by way of a festual accommodation; but during the time of preparation, he sit<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing in a Chair, (and a shoulder of Mutton at fire,) fell in a deep Trance, con<g ref="char:EOLhyphen"/>tinuing so for the space of 21. dayes; to the great griefe of his friends, who at the last communicated his condition to Queen <hi>Elizabeth:</hi> Which soon pro<g ref="char:EOLhyphen"/>duced her Royal determinations, that during his Trance, one shoulder should be laid down raw, as another was rosted; insomuch, that upon his awaking from this long slumber, he asked, whether, the meat was roasted, and where his friends was? Answer was made, <hi>Gone; but they would wait upon him very suddenly,</hi> &amp;c. In like manner; a president as great, and credible; as the Report of people extends to, which hath happened in these our Revolutions, and mutations of Times, <hi>viz.</hi> That a young-Youth being strangely convey<g ref="char:EOLhyphen"/>ed from <hi>Henley</hi> upon <hi>Thames,</hi> to the City of <hi>London,</hi> by the misterious Art of Spirits, was by Divine Providence cast into a Gentlemans house in <hi>Water-lane</hi> neer <hi>Tower-street,</hi> where Providence so protected him, that in a short time he received Sanctuary under the Wings of Charity, at Mr. <hi>Kates</hi> house a Sugar-Baker; where it pleased God, that after abundance of care and clemency ex<g ref="char:EOLhyphen"/>tended towards the Creature, he fell into two Trances; the one continuing for the space of two Dayes, and two Nights; the other thre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Dayes, and three Nights; after which, a short time produced a third; and this, more sad and dismal then the former; for, during the space of eight dayes, no appearance of life, but a little breathing, beating of the Pulses, working of the Vitals, and seeming as it were between hot and cold: insomuch, that many Doctors, and other<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, frequenting the place, delivered in their several Judgments; some concerning the Lethargie; others, that he lay under an evil tongue; but none
+<pb n="3" facs="tcp:179931:2"/> could find out the true cause: yet it pleased the great Physitian of all, the Omnipotent God of Heaven, on <hi>Saturday</hi> last in the fore-noon, to raise him (in some measure) from this Bed of silence, and so restore him to a further sence of life (as evidently appeares by his taking of a little sustenance in a spoon; looking very swa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thy, like a Tawny-moore, and with great black eyes of no such magnitude;) at which time, some Christians then present, spake to him, desiring, In the name of God, that he would speak his mind; to which, he was silent, making several signs and tokens to the people with his hands; and so at present remaines in that condition; which reminds me of another young-man, that had (for the space of 14: dayes lain in a Trance, and upon the 15th. day, awakening, called for a Bible, in which he read a whole Chap<g ref="char:EOLhyphen"/>ter; the Context, citing to repentance, and amendment of life; a Reproofe for sin, and an Exhortation to Obedience, and to do, as they would be done unto; <hi>The Golden Rule;</hi> A glorious Expressions from an Illeterate Creature, who before that time, never read a word in the book. The next thing, as Report sayes, is a Wonder of as large a latitude, as the precedents are of mag<g ref="char:EOLhyphen"/>nitude; which is thus: A Tree of great groath descending into the ground every six hours, and ascending againe above the earth at the 12th. hour, at <hi>Reynam</hi> in <hi>Essex;</hi> which is wonderfull for man to behold; but not impossible for God to denote and set forth. Nay more, it is said, that a young boy is now born, that hath three heads, two tongues, and upon each head a Crown; but what this denotes, I cannot resolve: Yet thus much be assured, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> within these few dayes a Gentlewoman (in mans apparel,) took up her lodg<g ref="char:EOLhyphen"/>ing neer the Bottle of Hay, between London and Islington; and as it's said, full-fraught both with Gold, Silver, and Jewels; together with something to declare but death seizing her body, before she could present the world with her Embassise, I must decline particulars.</p>
+            <div type="part">
+               <p>TO pass by the Controversies of these Latter-Times, so highly disputed both in Ink &amp; Blood, and the many eminent and visible Signs, which have appeared (as it were) from the Windows of Hea<g ref="char:EOLhyphen"/>ven, to the Sons of Men, give us leave, a little, to enter in<g ref="char:EOLhyphen"/>to the sad Contemplations of <hi>Englands</hi> prestent estate &amp; condition, and compare it with precedent Ages, when through her Blindness and Iniquity, she remained obsti<g ref="char:EOLhyphen"/>nate and wilful, refusing to have her aversness searched by a Divine Hand, and to have her Tyrannical Lordly<g ref="char:EOLhyphen"/>ness
+<pb n="4" facs="tcp:179931:3"/> subverted, and equally poized within the ballance of the Peoples Freedoms: Which is doubtless so much the greater, by how much the less we are sensible of the se<g ref="char:EOLhyphen"/>vere Hand of GOD upon Us. For not many years since, clear it was to the Spirits of many precious Saints, who perspicuously discerned a visible Signal of the Great Je<g ref="char:EOLhyphen"/>hovah's Favour and Goodness towards his People, even by the Eye of Faith, obviously piercing through many dark Clouds, and dreadful Comets, in the same Juncture of Time, when specious pretences of Reformation, or New-Lights, or Glorious Days, took its extent and Lati<g ref="char:EOLhyphen"/>tude from the Scottish Territories; yet even then, and at that very time, had the People great reason to suspect, that the Candles of the Gospel was either in danger to be quite extinguished, or at least burnt very dimly amongst them, &amp; did too apparently dwindle. For to begin with that which should be most dear unto a Nation, (the esta<g ref="char:EOLhyphen"/>blishment of Religion in its purity and lustre, and the li<g ref="char:EOLhyphen"/>berties of the people in their pristine Freedoms) who is not sensible how these two precious Jewels hath been surprized by profane, sacrilegious, mercinary, and Prela<g ref="char:EOLhyphen"/>tical hands; whilst the Name of the Gospel, and Refor<g ref="char:EOLhyphen"/>mation, hath been used as a Stalking-horse, to disguise &amp; palliate the blackest Designes the Sun ever looked upon. But I shall not deviate too far from the intended su<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ect; nor exspatiate far, in representing you with some memo<g ref="char:EOLhyphen"/>rable Comets, or Exhalations in the Air, (commonly cal<g ref="char:EOLhyphen"/>led <hi>Blazing-Stars</hi>) &amp; the first that presents it self to view, is that which appeared in the year, 1618. in the Reign of King <hi>James,</hi> to the great admiration and terrour of many that beheld it, by reason of the magnitude of its propor<g ref="char:EOLhyphen"/>tion, and the height of its Scituation. Of which many of
+<pb n="5" facs="tcp:179931:3"/> the Learned, have written large Treatises; but for more general satisfaction, be pleased to take this memorable Passage, which is well-worthy your observation, <hi>viz.</hi>
+               </p>
+               <p>That his Majesty upon the first of <hi>Novemb.</hi> going from <hi>White-Hall</hi> to <hi>New-Market,</hi> in the year aforesaid, deligh<g ref="char:EOLhyphen"/>ting himself with the Recreations of Hawking &amp; Hunt<g ref="char:EOLhyphen"/>ing; and the Courtiers being likewise revelling, News was brought of this dreadful sight, and Summons from Hea<g ref="char:EOLhyphen"/>ven; for although Thunder seems terrible to many, yet a Comet or Blazing-Star, doth speak more peculiarly un<g ref="char:EOLhyphen"/>to Kings and Princes; which incited his Majesty to send for some Learned <hi>Mathematicians</hi> from the University of <hi>Cambridge,</hi> to satisfie him touching the future Events, &amp;c. Whereupon Dr. <hi>Cumbers,</hi> Dr. <hi>Mansel,</hi> and some others, attended his Maj. at Court, desiring to be excused, in de<g ref="char:EOLhyphen"/>livering their Opinions upon so high a Point. Whereup<g ref="char:EOLhyphen"/>on his Majesty gave this Construction, in the words fol<g ref="char:EOLhyphen"/>lowing:
+<floatingText type="letter" xml:lang="eng">
+                     <body>
+                        <opener>
+                           <salute>Gentlemen,</salute>
+                        </opener>
+                        <p>THe Body of this Great Star is over <hi>Germany,</hi> and it de<g ref="char:EOLhyphen"/>nounceth much War and desolation to that Nation; but the Tayl of the Star is over my Dominions and Territories; and the Sting, the Sting, <hi>(laying his hand upon his breast, twice expressing the same)</hi> is in the Tail, denoting, That the greatest smart of it, and the sharpest execution of all, will chiefly centre, and have its primarily influence upon Me, or my Children.</p>
+                     </body>
+                  </floatingText>
+               </p>
+               <p>How true this Prophetical-Presage hath fallen out, the World may judge by its Scarlet-Die.</p>
+               <p>But to return, from whence I have digressed, I shall proceed to that Direful Eccho, which which, was heard
+<pb n="6" facs="tcp:179931:4"/> in the Air at <hi>Newmarket,</hi> on <hi>Tuesday</hi> last was seven night, where many of the Inhabitants thereabouts were much astonished, especially at the dreadful noise of Drums beating, and Trumpets sounding, which caused as great astonishment, as wonder; by reason they saw no Warlike Bands visible at present: Yet no sooner had this Eccho possess'd them with various Ruminations, but immediat<g ref="char:EOLhyphen"/>ly they began to discern several Warlike Troops and Companies, arraying themselves in Battalia; and after some pickeering, and vollies presented between several Parties, as it were Forlorn-Hopes, the two main Bodies joyned battel, disputing very puissantly, and with great vigour. During this Engagement, there seemed to be an extraordinary Light, and glittering of Swords, and Men in Armour, which continued for the space of half an hour; and then the one seemed to vanquish the other, taking their pursuit towards the City of <hi>London.</hi>
+               </p>
+               <p>And as this was no small Terrour to the Beholders, so was the succeding Thunder as great a Wonder to the Spectators, who after sundry great Claps from an Angry God, even like unto an Enemies Warning-Piece, presen<g ref="char:EOLhyphen"/>ted to the Earth a mighty Thunder-bolt, much like unto the Shell of a great Granado; which was taken up and carryed to Justice <hi>Fosters</hi> house near adjacent, where it now lies, and is there to be seen at this day; as it was af<g ref="char:EOLhyphen"/>firmed by Captain <hi>Neilson,</hi> the <hi>Norfolk</hi> Post, and some others, who came to <hi>London,</hi> and lodged at the Sign of the Ram-Inne, in West-Smithfield.</p>
+               <p>It is observable, That not long after this Wonder from Heaven, had presented it self to the Inhabitants of the Earth, but a bright Star of a great Magnitude▪ was seen glittering and sparkling up and down, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ven like unto that
+<pb n="7" facs="tcp:179931:4"/> in the West; whose Lustre was of so large an Extent, and appeared so conspicuous, That although the Air was dark, yet bright and serene were the glorious Rays which streamed forth by its great splendor, as if the Heavens re<g ref="char:EOLhyphen"/>ceived all its Serenes from its illustrious influences. This Star was seen for the space of two Nights constantly a<g ref="char:EOLhyphen"/>bout ten of the Clock: yet in several Forms; as some<g ref="char:EOLhyphen"/>times like a fiery Dragon; sometimes like a flaming Sword; and sometimes in an Oval Form, casting forth a round flame as big as a bushel, and divers sparkling Coals.</p>
+               <p>
+                  <hi>This strange sight did wonder<g ref="char:EOLhyphen"/>fully affright the Beholders, who with relenting Spirits; do much reflect upon themselves, and leave the event thereof unto GOD; unto whom alone is known the Won<g ref="char:EOLhyphen"/>ders, in the depth of the Seas, and in the heighth of the Heavens.</hi>
+               </p>
+               <pb n="8" facs="tcp:179931:5"/>
+               <p>The next thing that presents it self to publike view, is, a Wonder as great as any before cited, which hapned on the first of this instant <hi>March,</hi> at <hi>Ferry-Bridges</hi> in <hi>York<g ref="char:EOLhyphen"/>shire,</hi> within two miles of <hi>Pontefract;</hi> the manner thus: Between 12 and one of the Clock in the morning, the Minister, Sexton, Clerk, and some others, received an Al<g ref="char:EOLhyphen"/>larm, by ringing of the Bells in the Steeple; who being somewhat astonished thereat, repaired forthwith to the Church; and going up into the Belfree, there appeared 4 visible shapes of men, with a Candle burning, sticking against the Wall: Whereupon the Minister bare up to them, saying: <hi>In the Name of the Father, of the Son, and of the Holy Ghost;</hi> From whence come you, what is your <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>siness? and what make you here? A Voice answered, We come to reprove you of Sin and Back-sliding. There<g ref="char:EOLhyphen"/>fore, <hi>Repent, Repent,</hi> Or else this present year will a great Plague and Famine, befall both People and Cattle. Up<g ref="char:EOLhyphen"/>on uttering of which words, the Candle extinguished, and the four shapes immediatly vanished. The Lord be merciful to his Chosen Ones, and grant that these Signs and VVonders, may auspicate as much Peace and glory to these Nations, as that great Star did upon the death of <hi>Julius Caesar,</hi> to his Successor <hi>Augustus Caesar,</hi> which dis<g ref="char:EOLhyphen"/>penced a healthful and happy in<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>luence upon those Na<g ref="char:EOLhyphen"/>tions, where the Iron-Gates of War vvere demolished, and the Peoples Freedoms restored: Which proved a most Glorious Government in</p>
+            </div>
+            <trailer>The End.</trailer>
+            <pb facs="tcp:179931:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
